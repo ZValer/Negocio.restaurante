@@ -1,0 +1,31 @@
+
+1.
+
+Sub-Competencia: 
+Separa el código en funciones pequeñas reusables, 
+haciendo uso correcto de paso por parametros y return (avance 3)
+
+Error original:
+Había uso de funciones pero no eran reusables
+
+Cambio realizado:
+Agregar funciones reusables
+
+Líneas de código donde se ve la corrección:
+Linea 89 
+Linea 101
+
+Usan la misma función para imprimir archivos en diferentes archivos
+
+2.
+
+Error original:
+Se recomienda revisar el alcance, la funcionalidad actual es limitada, 
+no tiene la complejidad de los ejercicios de clase. Además, faltan los comentarios.
+
+Cambio realizado:
+Se agregaron funciones más complejas y comentarios explicando el
+funcionamiento del programa
+
+Líneas de código donde se ve la corrección:
+Esto se puede ver a lo largo de todo el programa
